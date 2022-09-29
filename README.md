@@ -12,4 +12,4 @@
     <hr />
  </div>
  
- [![rollingryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollingryan&count_private=true&hide=stars&hide=stars,contribs&show_icons=true&theme=prussian&&bg_color=30,21262d,3d444d)](https://github.com/anuraghazra/github-readme-stats)
+ [![rollingryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollingryan&count_private=true&hide=stars&hide=stars,contribs&show_icons=true&theme=prussian&bg_color=30,21262d,3d444d)]
