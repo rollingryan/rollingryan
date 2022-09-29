@@ -13,3 +13,5 @@
  </div>
  
  ![rollingryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollingryan&count_private=true&hide=stars&hide=stars,contribs&show_icons=true&theme=prussian)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
