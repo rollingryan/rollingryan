@@ -19,11 +19,47 @@
   
   <hr />
  
+  <h3>Languages and tools</h3>
+ 
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" title="Material UI" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel" title="Babel" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" alt="Hugo" title="Hugo" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" title="php" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" title="SASS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="Storybook" title="Storybook" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" title="WordPress" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome" title="Chrome" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" title="Apple" width="40" height="40"/>
+  </div>
+  
+  <hr />
+  
   <h3>Stats</h3>
  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rollingryan&count_private=true&hide=stars,contribs&show_icons=true&theme=prussian&hide_border=true&custom_title=GitHub%20stats" />
+  
+  <div>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rollingryan&theme=prussian&hide_border=true&ring=red&fire=orange" />
+  </div>
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollingryan&theme=prussian&hide_border=true&card_width=495&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollingryan&theme=prussian&hide_border=true&layout=compact" />
 
   <hr />
   
