@@ -1,6 +1,4 @@
-<div align="center">
-  <img alt="rollingryan working" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" />
-  
+<div align="center">  
   <h3>Ryan Donald</h3>
   <h4>Frontend developer, team lead and aspiring manager</h4>
 
@@ -15,6 +13,10 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=rollingryan&style=flat-square&color=orange" alt="Profile views"/>
   </div>
+  
+  <hr />
+  
+  <img alt="rollingryan working" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" />
   
   <hr />
  
