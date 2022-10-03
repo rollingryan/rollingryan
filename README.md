@@ -15,7 +15,6 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=rollingryan&style=flat-square&color=orange" alt="Profile views"/>
   </div>
-
   
   <hr />
  
@@ -60,6 +59,8 @@
   </div>
  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" />
+  
+  <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
   <hr />
   
