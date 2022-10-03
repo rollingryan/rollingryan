@@ -53,27 +53,38 @@
   
   <h3>Stats</h3>
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rollingryan&count_private=true&hide=stars,contribs&show_icons=true&theme=prussian&hide_border=true&custom_title=GitHub%20stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rollingryan&count_private=true&hide=stars,contribs&show_icons=true&theme=solarized-dark&hide_border=true&custom_title=GitHub%20stats" />
   
   <div>
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rollingryan&theme=prussian&hide_border=true&ring=red&fire=orange" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rollingryan&theme=solarized-dark&hide_border=true&ring=red&fire=orange" />
   </div>
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollingryan&theme=prussian&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" />
 
   <hr />
   
   <h3>Repos</h3>
 
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/rollingryan/next-countries)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollingryan&repo=next-countries&theme=prussian&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollingryan&repo=next-countries&theme=solarized-dark&hide_border=true" />
   </a>
 
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/rollingryan/vt-test)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollingryan&repo=vt-test&theme=prussian&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollingryan&repo=vt-test&theme=solarized-dark&hide_border=true" />
   </a>
   
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/rollingryan/add-people)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollingryan&repo=add-people&theme=prussian&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollingryan&repo=add-people&theme=solarized-dark&hide_border=true" />
   </a>
+	
+  <hr />
+	
+  <h4>
+    <span><
+      <span>/</span>
+    </span>
+    joke
+    <span>></span>
+  </h4>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=solarized-dark" alt="Jokes Card" />
 </div>
