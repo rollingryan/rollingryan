@@ -73,7 +73,7 @@
   </a>
 
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/rollingryan/vt-test)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollingryan&repo=vt-test&theme=solarized-dark&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollingryan&repo=vt&theme=solarized-dark&hide_border=true" />
   </a>
   
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/rollingryan/add-people)">
