@@ -62,7 +62,10 @@
  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" />
   
-  <!--START_SECTION:waka--><!--END_SECTION:waka-->
+  <img
+	  src="https://github.com/rollingryan/rollingryan/blob/main/images/stat.svg"
+	  alt="Wake time stats"
+	/>
 
   <hr />
   
