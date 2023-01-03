@@ -60,12 +60,13 @@
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rollingryan&theme=solarized-dark&hide_border=true&ring=red&fire=orange" />
   </div>
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" />
+  <div>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" />
+	</div>
   
-  <img
-	  src="https://github.com/rollingryan/rollingryan/blob/main/images/stat.svg"
-	  alt="Wake time stats"
-	/>
+	<div>
+  	<img align="center" src="https://github.com/rollingryan/rollingryan/blob/main/images/stat.svg" alt="Wake time stats" />
+	</div>
 
   <hr />
   
