@@ -59,7 +59,7 @@
   <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rollingryan&theme=solarized-dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=DD4A16"/></a>
   </div>
 
-  <img align="center" src="https://readme-stats-eta-dun.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" />
+  <div><img align="center" src="https://readme-stats-eta-dun.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" /></div>
 	
   <hr />
 	
