@@ -54,11 +54,11 @@
   
   <h3>GitHub Stats</h3>
  
-  <img align="center" src="https://readme-stats-eta-dun.vercel.app/api?username=rollingryan&count_private=true&hide=stars,contribs&show_icons=true&theme=solarized-dark&hide_border=true&custom_title=GitHub%20stats" />
+  <p><img align="center" src="https://readme-stats-eta-dun.vercel.app/api?username=rollingryan&count_private=true&hide=stars,contribs&show_icons=true&theme=solarized-dark&hide_border=true&custom_title=GitHub%20stats" /></p>
   
   <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rollingryan&theme=solarized-dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=DD4A16"/></a>
 
-  <div align="center"><img align="center" src="https://readme-stats-eta-dun.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" /></div>
+  <p align="center"><img align="center" src="https://readme-stats-eta-dun.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" /></p>
 	
   <hr />
 	
