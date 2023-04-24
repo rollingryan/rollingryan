@@ -78,8 +78,8 @@
     <img align="center" src="https://readme-stats-eta-dun.vercel.app/api/pin/?username=rollingryan&repo=vt&theme=solarized-dark&hide_border=true" />
   </a>
   
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/rollingryan/add-people)">
-    <img align="center" src="https://readme-stats-eta-dun.vercel.app/api/pin/?username=rollingryan&repo=add-people&theme=solarized-dark&hide_border=true" />
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/rollingryan/accommodation-search)">
+    <img align="center" src="https://readme-stats-eta-dun.vercel.app/api/pin/?username=rollingryan&repo=accommodation-search&theme=solarized-dark&hide_border=true" />
   </a>
 	
   <hr />
