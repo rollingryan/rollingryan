@@ -1,8 +1,8 @@
 <div align="center">  
   <h3>Ryan Donald</h3>
-  <h4>Frontend developer, team lead and aspiring manager</h4>
+  <h4>Senior frontend developer, team lead and aspiring manager</h4>
 
-  <a href="mailto:ryan@rollingcreative.co.za" title="Email" target="_blank">
+  <a href="mailto:donald.ra@gmail.com" title="Email" target="_blank">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
   </a>
   
