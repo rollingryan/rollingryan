@@ -68,22 +68,6 @@
 
   <hr />
 
-  <h3>Repos</h3>
-
-  <a href="https://github.com/rollingryan/next-countries">
-    <img align="center" src="https://readme-stats-eta-dun.vercel.app/api/pin/?username=rollingryan&repo=next-countries&theme=solarized-dark&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/rollingryan/team-table">
-    <img align="center" src="https://readme-stats-eta-dun.vercel.app/api/pin/?username=rollingryan&repo=team-table&theme=solarized-dark&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/rollingryan/accommodation-search">
-    <img align="center" src="https://readme-stats-eta-dun.vercel.app/api/pin/?username=rollingryan&repo=accommodation-search&theme=solarized-dark&hide_border=true" />
-  </a>
-
-  <hr />
-
   <h4>
     <span><
       <span>/</span>
