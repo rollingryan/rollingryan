@@ -1,27 +1,27 @@
-<div align="center">  
+<div align="center">
   <h3>Ryan Donald</h3>
   <h4>Senior frontend developer, team lead and aspiring manager</h4>
 
   <a href="mailto:donald.ra@gmail.com" title="Email" target="_blank">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/ryan-donald-72090414/" title="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
+
   <div>
     <img src="https://komarev.com/ghpvc/?username=rollingryan&style=flat-square&color=orange" alt="Profile views"/>
   </div>
-  
+
   <hr />
-  
+
   <img alt="rollingryan working" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" />
-  
+
   <hr />
- 
+
   <h3>Languages and tools</h3>
- 
+
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS" width="40" height="40"/>&nbsp;
@@ -49,41 +49,41 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome" title="Chrome" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" title="Apple" width="40" height="40"/>
   </div>
-  
-  <hr />
-  
-  <h3>GitHub Stats</h3>
- 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rollingryan&count_private=true&hide=stars,contribs&show_icons=true&theme=solarized-dark&hide_border=true&custom_title=GitHub%20stats" /></p>
-  
-  <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rollingryan&theme=solarized-dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=DD4A16"/></a>
 
-  <p align="center"><img align="center" src="https://readme-stats-eta-dun.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" /></p>
-	
   <hr />
-	
+
+  <h3>GitHub Stats</h3>
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rollingryan&count_private=true&hide=stars,contribs&show_icons=true&theme=solarized-dark&hide_border=true&custom_title=GitHub%20stats" /></p>
+
+<a href="https://streak-stats.demolab.com?user=rollingryan"><img align="center" src="https://streak-stats.demolab.com?user=rollingryan&theme=solarized-dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=DD4A16"/></a>
+
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollingryan&theme=solarized-dark&hide_border=true&layout=compact" /></p>
+
+  <hr />
+
   <h3>WakaTime Stats</h3>
-	
+
   <img align="center" src="https://github.com/rollingryan/rollingryan/blob/main/images/stat.svg" alt="WakaTime stats" />
 
   <hr />
-  
+
   <h3>Repos</h3>
 
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/rollingryan/next-countries)">
+  <a href="https://github.com/rollingryan/next-countries">
     <img align="center" src="https://readme-stats-eta-dun.vercel.app/api/pin/?username=rollingryan&repo=next-countries&theme=solarized-dark&hide_border=true" />
   </a>
 
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/rollingryan/team-table)">
+  <a href="https://github.com/rollingryan/team-table">
     <img align="center" src="https://readme-stats-eta-dun.vercel.app/api/pin/?username=rollingryan&repo=team-table&theme=solarized-dark&hide_border=true" />
   </a>
-  
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/rollingryan/accommodation-search)">
+
+  <a href="https://github.com/rollingryan/accommodation-search">
     <img align="center" src="https://readme-stats-eta-dun.vercel.app/api/pin/?username=rollingryan&repo=accommodation-search&theme=solarized-dark&hide_border=true" />
   </a>
-	
+
   <hr />
-	
+
   <h4>
     <span><
       <span>/</span>
